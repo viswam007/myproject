@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Viswanath file1
 Merge with Master branch
 Abc111111
+=======
+Viswanath File1
+>>>>>>> Master
